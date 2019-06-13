@@ -1,2 +1,3 @@
 # MKCrashGuard
-Protect the objective-c application(Crash 防护框架、保护App不闪退)
+使用方式：pod 'MKAppKit/MKCrashGuard'
+位置：[https://github.com/mythkiven/MKAppKit](https://github.com/mythkiven/MKAppKit)
